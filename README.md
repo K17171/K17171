@@ -10,7 +10,8 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=akshay-pathak-techno&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/akshay-pathak-techno)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=akshay-pathak-techno&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/k17171
+)
 
 <hr>
 
