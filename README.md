@@ -10,8 +10,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=akshay-pathak-techno&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/k17171
-)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github.com/k17171)](https://github.com/k17171)
 
 <hr>
 
@@ -21,7 +20,7 @@
 
 | My github statistics                                                                                                                                                      | My languages                                                                                                                                                                             | Streaks                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=akshay-pathak-techno&show_icons=true&theme=dark&hide_title=true)](https://github.com/akshay-pathak-techno) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-pathak-techno&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/akshay-pathak-techno) | ![akshay-pathak-techno](https://github-readme-streak-stats.herokuapp.com/?user=akshay-pathak-techno&theme=dark) |
+| [![Peace's github stats]([[https://github.com/k17171](https://github.com/k17171)](https://github.com/k17171))](https://github.com/akshay-pathak-techno) | [![Top Langs](https://github.com/k17171)]([[https://github.com/akshay-pathak-techno](https://github.com/k17171)](https://github.com/k17171)) | ![akshay-pathak-techno](https://github.com/k17171) |
 
 <hr>
 </p>
