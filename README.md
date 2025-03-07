@@ -15,15 +15,6 @@
 <hr>
 
 <!-- START NEW SECTION -->
-<p align="center">
- <h2 align="center">My Github Stats</h2>
-
-| My github statistics                                                                                                                                                      | My languages                                                                                                                                                                             | Streaks                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [![Peace's github stats]([[https://github.com/k17171](https://github.com/k17171)](https://github.com/k17171))](https://github.com/akshay-pathak-techno) | [![Top Langs](https://github.com/k17171)]([[https://github.com/akshay-pathak-techno](https://github.com/k17171)](https://github.com/k17171)) | ![akshay-pathak-techno](https://github.com/k17171) |
-
-<hr>
-</p>
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
