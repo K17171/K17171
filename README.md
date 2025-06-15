@@ -4,7 +4,9 @@
 
 <!-- ANIMATED TYPING HEADER -->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+a+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+Love+Creating+Digital+Experiences+%E2%9C%A8;Always+Learning+%26+Building+Cool+Stuff+%F0%9F%9A%80;Welcome+to+My+Coding+Universe!+%F0%9F%8C%8C)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+a+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+Love+Creating+Digital+Experiences+%E2%9C%A8;Always+Learning+%26+Building+Cool+Stuff+%F0%9F%9A%80;Welcome+to+My+Coding+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -23,16 +25,17 @@
 ```javascript
 const kuldeep = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "Python", "TypeScript"],
-  askMeAbout: ["web dev", "tech", "Mobile App", "app dev", "problem solving"],
+  code: ["JavaScript", "Python", "Java", "TypeScript", "C++"],
+  askMeAbout: ["web dev", "tech", "app dev", "problem solving"],
   technologies: {
     frontEnd: {
-      js: ["React", "Vue", "Next.js", "Nuxt.js"],
-      css: ["Tailwind", "Bootstrap", "Sass", "Shadcn UI", "Shadcn UI", "Remix", "Material ui"]
+      js: ["React", "Vue", "Next.js"],
+      css: ["Tailwind", "Bootstrap", "Sass"]
     },
     backEnd: {
       js: ["Node", "Express"],
-      python: ["Django", "FastAPI", "Nest js"],
+      python: ["Django", "FastAPI"],
+      java: ["Spring Boot"]
     },
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
     cloud: ["AWS", "Docker", "Kubernetes"],
